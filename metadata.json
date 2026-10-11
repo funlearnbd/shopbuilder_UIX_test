@@ -1,0 +1,6 @@
+{
+  "name": "Botanica SaaS - Multi-Tenant E-Commerce & Merchant Kiosk",
+  "description": "Multi-tenant SaaS e-commerce platform and merchant console with responsive dashboard, catalog inventory, COD orders, live buyer storefront, theme sandbox, analytics, payment gateway rules, and profile settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
